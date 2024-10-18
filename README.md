@@ -80,7 +80,7 @@
 
 ## 📫 Как связаться со мной
 - [HH](https://hh.ru/resume/f5e97b7fff0cc7fd6a0039ed1f324843357076)
-- [Telegram](@elf_trader)
+- [Telegram](https://t.me/elf_trader)
 - Email: gairat.gulyamov@gmail.com
 
 ## 🎉 Спасибо за визит!
