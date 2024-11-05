@@ -4,7 +4,7 @@
 
 ## 🛠️ Мои навыки
 - **Языки программирования**: Python, JavaScript, C#
-- **Тестирование**: Selenium, pytest, unittest, Robot Framework
+- **Тестирование**: Selenium, pytest, Postman, Robot Framework
 - **Инструменты CI/CD**: GitHub Actions, Jenkins, GitLab
 - **Методологии**: Agile, Scrum, TDD (Test-Driven Development)
 - **Базы данных**: SQL, NoSQL
